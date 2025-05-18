@@ -1,0 +1,82 @@
+# This is where the calories corresponding to the food are stored
+
+
+food_calorie_table = {
+	"apple": 52,
+    "banana": 89,
+    "orange": 62,
+    "grape": 67,
+    "watermelon": 30,
+    "pineapple": 50,
+    "mango": 60,
+    "peach": 39,
+    "strawberry": 33,
+    "blueberry": 57,
+    "avocado": 160,
+    "cherry": 50,
+    "kiwi": 42,
+    "pear": 57,
+
+	"rice": 116,
+    "noodles": 138,
+    "bread": 223,
+    "pasta": 131,
+    "dumplings": 296,
+    "pizza": 285,
+    "burger": 354,
+    "hot dog": 290,
+    "sushi": 200,
+
+	"potato": 87,
+    "cucumber": 16,
+    "carrot": 41,
+    "broccoli": 55,
+    "tomato": 18,
+    "lettuce": 15,
+    "onion": 40,
+    "corn": 96,
+    "mushroom": 22,
+
+	"beef": 250,
+    "pork": 242,
+    "chicken": 239,
+    "duck": 337,
+    "fish": 206,
+    "egg": 78,
+    "fried egg": 90,
+    "boiled egg": 68,
+    "bacon": 541,
+    "sausage": 301,
+
+	"chips": 540,
+    "chocolate": 535,
+    "cake": 297,
+    "ice cream": 207,
+    "cookie": 160,
+    "donut": 452,
+    "croissant": 406,
+    "muffin": 377,
+    "pudding": 130,
+    "candy": 394,
+    "popcorn": 375,
+
+	"milk": 103,
+    "soy milk": 80,
+    "orange juice": 112,
+    "apple juice": 114,
+    "coke": 140,
+    "sprite": 140,
+    "beer": 154,
+    "red wine": 125,
+    "coffee (with sugar)": 60,
+    "black coffee": 2,
+    "milk tea": 160,
+    "bubble tea": 300,
+    "smoothie": 250,
+    "energy drink": 110,
+    "hot chocolate": 190
+
+
+}
+
+
